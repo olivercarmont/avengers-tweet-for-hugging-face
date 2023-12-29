@@ -48,7 +48,7 @@ If you find this dataset or the tutorials helpful, please consider citing this r
   author={Oliver Carmont},
   year={2023},
   publisher={GitHub},
-  howpublished={\url{https://github.com/olivercarmont/avengers-tweet-for-sentiment-analysis}},
+  howpublished={\url{https://github.com/olivercarmont/avengers-tweets-for-sentiment-analysis}},
 }
 ```
 ## That's it! 🎊
