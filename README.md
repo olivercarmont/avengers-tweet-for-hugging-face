@@ -1,5 +1,5 @@
 
-# Avengers Endgame Tweets Dataset
+# Avengers Endgame Tweets Dataset 🐦
 
 > **About Myself**: 🤖 I'm an aspiring ML Engineer sharing my learnings on ML/AI on [**YouTube!**](https://www.youtube.com/@olivercarmont) <br />
 
