@@ -27,7 +27,7 @@ Here is a snippet of the dataset:
 
 ## Source
 
-The dataset is sourced from Kaggle and is owned by Kavita Lolayekar. You can access the original dataset on Kaggle at [Twitter Dataset: Avengers Endgame](https://www.kaggle.com/datasets/kavita5/twitter-dataset-avengersendgame).
+The dataset is sourced from Kaggle and is owned by [**Kavita Lolayekar**](https://www.kaggle.com/kavita5). You can access the original dataset on Kaggle at [Twitter Dataset: Avengers Endgame](https://www.kaggle.com/datasets/kavita5/twitter-dataset-avengersendgame).
 
 ## Video Tutorial
 
