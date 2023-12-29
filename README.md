@@ -21,8 +21,8 @@ Here is a snippet of the dataset:
 ```plaintext
 | Id | Text  | screenName      | retweeted |
 |----|-------|-----------------|-----------|
-| 1  | "RT @mrvelstan: literally nobody: me: #AvengersEndgame https://t.co/LR9kFwfD5c" | DavidAc96 | 637 |
-| 2  | "RT @agntecarter: i’m emotional, sorry!! 2014 x 2019 #blackwidow #captainamerica https://t.co/xcwkCMw18w" | NRmalaa | 302 |
+| 1  | "RT @mrvelstan: literally nobody:..." | DavidAc96 | 637 |
+| 2  | "RT @agntecarter: i’m emotional,..." | NRmalaa | 302 |
 ```
 
 ## Source
